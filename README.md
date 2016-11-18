@@ -1,7 +1,7 @@
 # MyLeetCode
 - Recording my LeetCode practice code
 - Each file has same question name as on LeetCode
-- The files will include my name, date, idea, and remark
+- The files will include my name, date, LeetCode URL, idea, and remark
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
