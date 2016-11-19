@@ -5,7 +5,7 @@
 
 | # | Title | Language | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
-|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | C++|Medium| 2016.11.17|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |C++|Medium|2016.11.18|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|C++|Easy| 2106.11.18|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | C++ |Medium| 2016.11.17|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | C++ |Medium|2016.11.18|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| C++ |Easy| 2106.11.18|
 
