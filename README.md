@@ -12,3 +12,4 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|C++|Easy|2016.11.20|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|C++|Easy|2016.11.21|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|C++|Easy|2016.11.21|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|C++|Hard|2016.11.21|
