@@ -20,3 +20,4 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|C++|Easy|[2016.11.24](https://github.com/Awycious/MyLeetCode/blob/master/292.%20Nim%20Game)|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|C++|Medium|[2016.11.24](https://github.com/Awycious/MyLeetCode/blob/master/148.%20Sort%20List)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|C++|Medium|[2016.11.25](https://github.com/Awycious/MyLeetCode/blob/master/328.%20Odd%20Even%20Linked%20List)|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|C++|Medium|[2016.11.25](https://github.com/Awycious/MyLeetCode/blob/master/233.%20Number%20of%20Digit%20One)|
