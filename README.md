@@ -17,3 +17,4 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|C++|Easy|[2016.11.23](https://github.com/Awycious/MyLeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree)|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|C++|Medium|[2016.11.23](https://github.com/Awycious/MyLeetCode/blob/master/173.Binary%20Search%20Tree%20Iterator)|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|C++|Hard|[2016.11.24](https://github.com/Awycious/MyLeetCode/blob/master/224.%20Basic%20Calculator)|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|C++|Easy|[2016.11.24](https://github.com/Awycious/MyLeetCode/blob/master/292.%20Nim%20Game)|
