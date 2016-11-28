@@ -1,7 +1,7 @@
 # MyLeetCode
-- Recording my LeetCode practice code
+- This repository is used to do language practice and Record my LeetCode practice code
 - Each file has same question name as on LeetCode
-- The files will include my name, date, LeetCode URL, idea, and remark
+- The files will include my name, date, LeetCode URL, idea, remark and my solution
 
 | # | Title | Language | Difficulty | Date(solution) |
 |---| ----- | -------- | ---------- | ---- |
