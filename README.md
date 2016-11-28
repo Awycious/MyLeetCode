@@ -24,4 +24,4 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|C++|Easy|[2016.11.26](https://github.com/Awycious/MyLeetCode/blob/master/36.%20Valid%20Sudoku.cpp)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|C++|Hard|[2016.11.27](https://github.com/Awycious/MyLeetCode/blob/master/45.%20Jump%20Game%20II.cpp)|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|C++|Easy|[2016.11.27](https://github.com/Awycious/MyLeetCode/new/master)|
-|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|C++|Hard|[2016.11.28](https://github.com/Awycious/MyLeetCode/new/master)|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|C++|Hard|[2016.11.28](https://github.com/Awycious/MyLeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp)|
