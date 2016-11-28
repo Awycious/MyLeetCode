@@ -25,3 +25,4 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|C++|Hard|[2016.11.27](https://github.com/Awycious/MyLeetCode/blob/master/45.%20Jump%20Game%20II.cpp)|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|C++|Easy|[2016.11.27](https://github.com/Awycious/MyLeetCode/blob/master/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp)|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|C++|Hard|[2016.11.28](https://github.com/Awycious/MyLeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp)|
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|C++|Medium|[2016.11.28](https://github.com/Awycious/MyLeetCode/commit/dd1aad2b71ebd652c4d2f40525f1667df5166888)|
