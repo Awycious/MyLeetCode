@@ -28,3 +28,4 @@
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|C++|Medium|[2016.11.28](https://github.com/Awycious/MyLeetCode/commit/dd1aad2b71ebd652c4d2f40525f1667df5166888)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|C++|Medium|[2016.11.28](https://github.com/Awycious/MyLeetCode/commit/bf607549c250448ad39f9501537e9b270f6f980f)|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|C++|Easy|[2016.11.28](https://github.com/Awycious/MyLeetCode/commit/57ba12e5affa8edcb2f265baff47f3f02caff9ff)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|C++|Hard|[2016.11.28](https://github.com/Awycious/MyLeetCode/commit/4a4de4283fef9db3bacc7359a04ce3da4d7543af)|
