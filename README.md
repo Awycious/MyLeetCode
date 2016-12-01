@@ -34,3 +34,4 @@
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/761e9ff39842ee10fe9ea07c68affd44f96029c8)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5187de4754bba90ddee1ec062d5221c66ef3a7cc)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5b090588b34567ee7fe474a4d37627944f387366)|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/51e6f187507605dfa19621654a4b9dd1e7c99796)|
