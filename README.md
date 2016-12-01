@@ -35,3 +35,4 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5187de4754bba90ddee1ec062d5221c66ef3a7cc)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5b090588b34567ee7fe474a4d37627944f387366)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/51e6f187507605dfa19621654a4b9dd1e7c99796)|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|C++|Medium|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/a591123e19b787e22f720e9f00d972aab780f5f3)|
