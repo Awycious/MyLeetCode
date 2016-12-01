@@ -33,3 +33,4 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5560857146ed74447f7abe6eab44c568305677e9)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/761e9ff39842ee10fe9ea07c68affd44f96029c8)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5187de4754bba90ddee1ec062d5221c66ef3a7cc)|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|C++|Easy|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/5b090588b34567ee7fe474a4d37627944f387366)|
