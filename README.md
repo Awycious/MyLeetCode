@@ -39,3 +39,4 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|C++|Easy|[2016.12.01](https://github.com/Awycious/MyLeetCode/commit/dd6ddc26c5bb3c2deb9997298bb545347b6f145a)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|C++|Easy|[2016.12.01](https://github.com/Awycious/MyLeetCode/commit/b81103c90b1f926eda6875eb8be90c9ccd198085)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|C++|Easy|[2016.12.02](https://github.com/Awycious/MyLeetCode/commit/f9176f2b6e7dbaacbfaaf80d501ace5a888acb3a)|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|C++|Medium|[2016.12.02](https://github.com/Awycious/MyLeetCode/commit/fedb7812baca485b75471d9942b50ca0eca88e10)|
