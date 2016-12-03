@@ -38,3 +38,4 @@
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|C++|Medium|[2016.11.30](https://github.com/Awycious/MyLeetCode/commit/a591123e19b787e22f720e9f00d972aab780f5f3)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|C++|Easy|[2016.12.01](https://github.com/Awycious/MyLeetCode/commit/dd6ddc26c5bb3c2deb9997298bb545347b6f145a)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|C++|Easy|[2016.12.01](https://github.com/Awycious/MyLeetCode/commit/b81103c90b1f926eda6875eb8be90c9ccd198085)|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|C++|Easy|[2016.12.02](https://github.com/Awycious/MyLeetCode/commit/f9176f2b6e7dbaacbfaaf80d501ace5a888acb3a)|
